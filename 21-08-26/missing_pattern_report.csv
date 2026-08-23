@@ -1,0 +1,52 @@
+Missing_Pattern,Rows,Percentage
+Complete,1065,53.25
+recent_note,192,9.6
+recent_project_description_length,153,7.65
+skills_count,117,5.85
+experience_years,82,4.1
+last_promotion_years_ago,74,3.7
+education,45,2.25
+certifications,45,2.25
+recent_note | experience_years,21,1.05
+recent_note | recent_project_description_length,20,1.0
+recent_project_description_length | skills_count,18,0.9
+recent_note | skills_count,18,0.9
+skills_count | experience_years,14,0.7
+recent_note | education,12,0.6
+recent_project_description_length | experience_years,11,0.55
+recent_note | last_promotion_years_ago,9,0.45
+skills_count | education,8,0.4
+recent_project_description_length | last_promotion_years_ago,8,0.4
+recent_note | certifications,8,0.4
+experience_years | last_promotion_years_ago,7,0.35
+skills_count | last_promotion_years_ago,7,0.35
+recent_project_description_length | certifications,7,0.35
+experience_years | education,6,0.3
+recent_project_description_length | education,6,0.3
+recent_note | recent_project_description_length | education,5,0.25
+experience_years | certifications,5,0.25
+education | certifications,4,0.2
+skills_count | certifications,3,0.15
+recent_note | last_promotion_years_ago | education,2,0.1
+recent_project_description_length | skills_count | experience_years,2,0.1
+skills_count | experience_years | last_promotion_years_ago,2,0.1
+last_promotion_years_ago | education,2,0.1
+recent_note | skills_count | experience_years,2,0.1
+recent_note | education | certifications,2,0.1
+recent_note | skills_count | education,2,0.1
+recent_note | recent_project_description_length | skills_count,1,0.05
+recent_note | recent_project_description_length | experience_years,1,0.05
+recent_note | skills_count | last_promotion_years_ago | certifications,1,0.05
+recent_project_description_length | last_promotion_years_ago | education,1,0.05
+recent_note | recent_project_description_length | skills_count | education,1,0.05
+recent_note | skills_count | experience_years | last_promotion_years_ago,1,0.05
+skills_count | experience_years | certifications,1,0.05
+recent_project_description_length | experience_years | last_promotion_years_ago | education,1,0.05
+recent_project_description_length | experience_years | last_promotion_years_ago,1,0.05
+recent_project_description_length | experience_years | education,1,0.05
+recent_project_description_length | last_promotion_years_ago | certifications,1,0.05
+last_promotion_years_ago | education | certifications,1,0.05
+recent_project_description_length | skills_count | experience_years | certifications,1,0.05
+recent_note | experience_years | certifications,1,0.05
+skills_count | last_promotion_years_ago | education,1,0.05
+recent_note | recent_project_description_length | last_promotion_years_ago,1,0.05
