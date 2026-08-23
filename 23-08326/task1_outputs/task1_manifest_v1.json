@@ -1,0 +1,19 @@
+{
+    "project": "SalaryInsight: Predictive Modeling for Informed Salary Predictions",
+    "task": "Task 1",
+    "version": "v1.0",
+    "source_file": "salary_task1_cleaned.csv",
+    "processed_file": "salary_task1_v1_processed.csv",
+    "rows": 2000,
+    "columns": 19,
+    "missing_values_after_processing": 0,
+    "duplicate_rows_after_processing": 0,
+    "sha256": "0ad07cfd1cc178fadcb223b0b8222e3cad7126de2bce5295a8af2c0f14aa4c08",
+    "transformations": [
+        "Converted survey_date to datetime",
+        "Filled numerical missing values using median",
+        "Filled categorical missing values using Unknown",
+        "Trimmed text values",
+        "Added data_version column"
+    ]
+}
